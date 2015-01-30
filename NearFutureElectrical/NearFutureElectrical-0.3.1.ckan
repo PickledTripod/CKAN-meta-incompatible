@@ -1,4 +1,5 @@
 {
+    "comment": "It doesn't appear in CKAN AT ALL now for some reason."
     "spec_version": 1,
     "identifier": "NearFutureElectrical--INCOMP",
     "suggests": [
